@@ -19,10 +19,14 @@
 	Email: 			info@freehtml5.co
 	Twitter: 		http://twitter.com/fh5co
 	Facebook: 		https://www.facebook.com/fh5co
-
+			ajsdgasd
+			ajgs
+		ajsg
+	BMSDNBA: http://www.bmsd.com/
+	console: http://www.console.com/
 	//////////////////////////////////////////////////////
 	 -->
-
+	 
   	<!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
 	<meta property="og:image" content=""/>
