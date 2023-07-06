@@ -18,7 +18,10 @@
 	<meta name="twitter:url" content="" />
 	<meta name="twitter:card" content="" />
 
-	<!-- <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">	 -->
+	<!-- 
+        <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">
+        ngak tau
+    -->
 	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
 	
 	<!-- Animate.css -->
